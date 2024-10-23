@@ -1,0 +1,6 @@
+[submodule "shamir's-secret"]
+	path = sss
+	url = https://github.com/shanmukh0504/Shamir-s_Secret_Rust.git
+[submodule "feldman-vss"]
+	path = feldman-vss
+	url = https://github.com/shanmukh0504/Feldman-Vss.git
